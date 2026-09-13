@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "326996309880",
+    "project_id": "genshin-import-app-b46e8",
+    "storage_bucket": "genshin-import-app-b46e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326996309880:android:8542c11dfa3099afeafa8d",
+        "android_client_info": {
+          "package_name": "com.example.genshin_import_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326996309880-7khpdbf452aejr55j40f4loeqkjlcdmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.genshin_import_app",
+            "certificate_hash": "7e1b6a28ee1775378f95fb6de22af90d21c8b251"
+          }
+        },
+        {
+          "client_id": "326996309880-2h0enj93dd7d0icvp7oq978l2gqno3ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CCLtNlLUwY4eYJ3ffrYAc4ys0NsXRQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326996309880-2h0enj93dd7d0icvp7oq978l2gqno3ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
